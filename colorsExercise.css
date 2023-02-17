@@ -1,0 +1,26 @@
+h1{
+    color:blueviolet
+}
+
+h2{
+    color:#121313;
+}
+
+h3{
+    color:#f70 ;
+}
+h4{
+    color: #0000ffdd;
+}
+
+h5{
+    color: #00fc;
+}
+
+h6{
+    color: rgb(130,0,235);
+}
+
+p{
+    color:rgba(115,243,114,0.3);
+}
